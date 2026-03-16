@@ -2,7 +2,7 @@ import { IoIosArrowDown } from "react-icons/io";
 import "./Home.css";
 import { RiDiscordLine, RiGithubLine } from "react-icons/ri";
 import { AiOutlineLinkedin } from "react-icons/ai";
-import myImg from "../../assets/me.png";
+import myImg from "../../assets/my-logo.png";
 
 export default function Home() {
   return (
